@@ -27,8 +27,10 @@ The project is divided into two main parts:
 - YelpAPI
 - Pandas for data manipulation
 - Pandas Profiling for exploratory data analysis
+- Orchestration tool (Airflow)
+- Model tracking (MLFlow or similar)
 
-## Setup and Running the Project
+
 
 ### Prerequisites
 
