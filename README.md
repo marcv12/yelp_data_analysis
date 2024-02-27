@@ -4,14 +4,7 @@
 
 This project aims to explore, analyze, and derive insights from Yelp data regarding various types of restaurants in Madrid. Utilizing a full-stack approach, it encompasses data collection through the Yelp API, data preprocessing and exploratory data analysis (EDA), and application development to communicate results effectively. This project demonstrates skills in data file ingest, ETL processes, interaction with data storage systems, and code version control.
 
-## Team Members
 
-- Cyril Tabet
-- Marc Violides
-- Miquel Amengual
-- Sophia Gurria
-- Walid Anabtawi
-- Youssef Abdel Nasser
 
 ## Project Structure
 
