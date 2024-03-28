@@ -10,9 +10,11 @@ This project aims to explore, analyze, and derive insights from Yelp data regard
 
 The project is divided into two main parts:
 
-1. **Data Collection and EDA (`01_Data_Collection_and_EDA.ipynb`):** This notebook includes the initial data collection from the Yelp API, covering various restaurant categories in Madrid. It also contains an exploratory data analysis to understand the dataset better.
+1. **Data Collection, Data ingestion,  and EDA (`1 - Ingestion_EDA Final Project.ipynb`):** This notebook includes the initial data collection from the Yelp API, covering various restaurant categories in Madrid. It also contains an exploratory data analysis to understand the dataset better.
 
-2. **Data Processing and Analysis (`02_Data_Processing_and_Analysis.ipynb`):** Following the initial data collection, this notebook focuses on preprocessing the data, including cleaning and transformation, and conducting a detailed analysis to extract meaningful insights.
+2. **Data Processing, Machine Learning and monitoring (`2 - MLFlow Final Project.ipynb`):** Following the initial data collection, this notebook focuses on preprocessing the data, including cleaning and transformation, and conducting a detailed analysis to extract meaningful insights.
+
+3. **Dashboard (`3 - Dashboard Final Project.ipynb`):** Follow our project up with nice visualisations of the best and worst restaurants in Madrid! Enjoy the recommendations!
 
 ## Technologies Used
 
