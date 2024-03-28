@@ -46,8 +46,9 @@ The project is divided into two main parts:
 
 ## Usage
 
-- To explore the dataset and initial analysis, start with the `01_Data_Collection_and_EDA.ipynb` notebook.
-- For data preprocessing and deeper analysis, proceed to the `02_Data_Processing_and_Analysis.ipynb` notebook.
+- To explore the dataset and initial analysis, start with the `1 - Ingestion_EDA Final Project.ipynb` notebook.
+- For data preprocessing, ML and deeper analysis, proceed to the `2 - MLFlow Final Project.ipynb` notebook.
+- For dashboard visualisation, finish off in style with the `3 - Dashboard Final Project.ipynb` notebook.
 
 ## Contributing
 
